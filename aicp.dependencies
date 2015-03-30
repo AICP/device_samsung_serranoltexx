@@ -15,14 +15,14 @@
     "branch":      "lp5.1"
   },
   {
-    "repository":  "CyanogenMod/android_device_samsung_msm8930-common",
+    "repository":  "AICP/device_samsung_msm8930-common",
     "target_path": "device/samsung/msm8930-common",
-    "branch":      "cm-12.0"
+    "branch":      "lp5.1"
   },
   {
-    "repository":  "CyanogenMod/android_kernel_samsung_msm8930-common",
-    "target_path": "kernel/samsung/msm8930-common",
-    "branch":      "cm-12.0"
+    "repository":  "F4k/f4ktion_kernel",
+    "target_path": "kernel/samsung/f4ktion",
+    "branch":      "lp-5.0"
   },
   {
     "repository":  "CyanogenMod/android_hardware_samsung",
@@ -32,6 +32,6 @@
   {
     "repository":  "CyanogenMod/android_hardware_qcom_fm",
     "target_path": "hardware/qcom/fm",
-    "branch":      "cm-12.0"
+    "branch":      "staging/cm-12.1"
   }
 ]
