@@ -1,6 +1,7 @@
 # system.prop for serranoltexx
 #
-
+ro.product.device=serranoltexx
+ro.product.model=GT-I9195
 rild.libpath=/system/lib/libsec-ril.so
 rild.libargs=-d /dev/smd0
 
